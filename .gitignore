@@ -1,0 +1,16 @@
+# Binaries and game files
+*.exe
+*.dll
+*.bak
+*.dmp
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Ghidra and temp project files
+*.gpr
+*.rep/
